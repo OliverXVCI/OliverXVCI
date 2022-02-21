@@ -1,8 +1,7 @@
 Ola eu sou a Estefany Oliver👋
 
-- 🔭 Atualmente estou apenas estudando
-- 🌱 Atualmente estou aprendendo Java scrpit , react
-- 🤔 Procuro ajuda para conseguir um estagio eu trabalho.
+- 🔭 Atualmente, estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, React e Node.
+- 🤔 Procuro ajuda para conseguir um estagio ou trabalho de Dev Jr
 
 
 
