@@ -4,6 +4,13 @@ Ola eu sou a Estefany Oliver👋
 - 🤔 Procuro ajuda para conseguir um estagio ou trabalho de Dev Jr
 
 
+📊 Metas 2022
+📂 Expandir meu portfólio
+
+🤝 Contribuir em projetos open-source
+
+📈 Conseguir uma experiência na área
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/estefany-oliveira-587003220/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BkP2ysx4dQei0N2v%2B5l0zhw%3D%3D">
