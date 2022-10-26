@@ -1,7 +1,7 @@
 Ola eu sou a Estefany Oliver👋
 
 - 🔭 Atualmente, estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, React e Node.
-- 🤔 Procuro ajuda para conseguir um estagio ou trabalho de Dev Jr
+- 🤔 Procuro ajuda para conseguir um trabalho de Dev Jr
 
 
 📊 Metas 2022
